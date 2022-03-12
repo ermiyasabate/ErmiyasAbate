@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My Name is Ermiyas Abate
+- 🔭 I’m currently working on Machine Learning and Data Science projects
+- 🌱 I’m currently learning Computer Science.
 
 <!--
 **ErmiyasAbate/ErmiyasAbate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on Machine Learning and Data Science projects
+- 🌱 I’m currently learning Computer Science.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
