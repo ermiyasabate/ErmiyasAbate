@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ermiyas Abate GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErmiyasAbate&theme=dark&show_icons=true&hide_border=true)
