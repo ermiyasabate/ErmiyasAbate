@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Software Engineering at ALX**
 - 📫 How to reach me **ermiyasabateg@gmail.com* <br/>
 
-<table style="width: 100%;" border="0">
+<table style="width: 100%;" border=0>
   <tbody>
     <tr>
       <td style="width: 75%;">
