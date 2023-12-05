@@ -1,7 +1,6 @@
 ![alt text for screen readers](https://mobidev.biz/wp-content/uploads/2020/01/machine-learning-consulting-company.png "Machine Learning")
 ### Hi there 👋 My Name is Ermiyas Abate
 - 🔭 I’m currently working on Machine Learning and Data Science projects
-- 🌱 I’m currently learning **Software Engineering at ALX**
 - 📫 How to reach me **ermiyasabateg@gmail.com** <br/>
 
 <table style="width: 100%;" border="0">
