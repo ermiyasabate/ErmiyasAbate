@@ -7,24 +7,24 @@
   <tbody>
     <tr>
       <td style="width: 75%;">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErmiyasAbate&show_icons=true&locale=en" alt="ErmiyasAbate" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&show_icons=true&locale=en" alt="Ermiyas Abate" />
       </td>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErmiyasAbate&show_icons=true&locale=en&layout=compact" alt="ErmiyasAbate" /></td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ermiyasabate&show_icons=true&locale=en&layout=compact" alt="Ermiyas Abate" /></td>
     </tr>
   </tbody>
 </table> <br/><br/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ErmiyasAbate&label=Profile%20views&color=0e75b6&style=flat" alt="ErmiyasAbate" />
+  <img src="https://komarev.com/ghpvc/?username=ermiyasabate&label=Profile%20views&color=0e75b6&style=flat" alt="Ermiyas Abate" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ErmiyasAbate" alt="ErmiyasAbate" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate" alt="Ermiyas Abate" /></a>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ErmiyasAbate&" alt="ErmiyasAbate" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&" alt="Ermiyas Abate" />
 </p>
 <!--
 **ErmiyasAbate/ErmiyasAbate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
