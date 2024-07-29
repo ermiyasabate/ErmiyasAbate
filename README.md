@@ -10,7 +10,8 @@
 <div class="row">
     <img src="portfolio-1.jpg" alt="Virtual Reality">
 </div>
-<table class="table" width="100%">
+
+<table style="width: 100%;">
   <thead>
     <tr>
       <th scope="col">#</th>
