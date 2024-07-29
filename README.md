@@ -8,7 +8,7 @@
 <body>
 <div class=".container-fluid">
 <div class="row">
-    <img src="portfolio-1.jpg" alt="Virtual Reality">
+    <img src="vrimage.jpg" alt="Virtual Reality">
 </div>
 
 <table style="width: 100%; text-align: justify;">
