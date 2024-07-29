@@ -17,44 +17,6 @@
   </tbody>
 </table> <br/><br/>
 
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td colspan="5">
-<img src="portfolio-1.jpg" alt="Virtual Reality">
-</td>
-</tr>
-<tr>
-<td>ABCD</td>
-<td>ABCD</td>
-<td>ABCD</td>
-<td>ABCD</td>
-<td>ABCD</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ermiyasabate&label=Profile%20views&color=0e75b6&style=flat" alt="Ermiyas Abate" />
 </p>
