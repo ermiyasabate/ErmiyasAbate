@@ -11,15 +11,9 @@
     <img src="portfolio-1.jpg" alt="Virtual Reality">
 </div>
 <div class="row">
-    <div class="col">
-      Abebe
-    </div>
-    <div class="col">
-      Molla 
-    </div>
-    <div class="col">
-      Kebede
-    </div>
+<div class="col">Abebe</div>
+<div class="col">Molla</div>
+<div class="col">Kebede</div>
   </div>
 </div>
 </body>
