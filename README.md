@@ -37,7 +37,7 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
-          <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate" alt="Ermiyas Abate" /></a>
+          [![trophy](https://github-profile-trophy.vercel.app/?username=ermiyasabateg&theme=onedark&margin-w=6&column=9&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
       </td>
     </tr>
   </tbody>
