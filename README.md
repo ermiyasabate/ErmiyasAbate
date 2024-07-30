@@ -8,7 +8,7 @@
 <body>
 <div class=".container">
 <div class="row" align="center">
-    <img src="vrimage.jpg" alt="Virtual Reality" style="text-align: center;">
+    <img src="vrimage.jpg" alt="Virtual Reality" width="100%">
 </div>
 
 <table style="width: 100%; text-align: justify;">
