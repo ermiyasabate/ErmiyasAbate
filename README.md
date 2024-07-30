@@ -25,6 +25,7 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate-dot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="Github Something"/>
         <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&show_icons=true&locale=en" alt="Ermiyas Abate" />
       </td>
       <td>
@@ -36,7 +37,7 @@
 <table style="width: 100%; text-align: justify;">
   <tbody>
   <tr>
-      <td style="width: 100%; margin: 30px;">
+      <td style="width: 100%;">
           <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate" alt="Ermiyas Abate" /></a>
       </td>
     </tr>
