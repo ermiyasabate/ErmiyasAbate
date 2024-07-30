@@ -19,7 +19,21 @@
       <h3>What I Do</h3>🚀 Currently, I’m diving deep into the fascinating realms of machine learning and data science. The idea of teaching computers to learn from data and make intelligent decisions captivates me. Whether it’s wrangling messy datasets, training neural networks, or exploring statistical models, I’m always up for a good challenge.</td>
     </tr>
   </tbody>
+  
 </table>
+<table style="width: 100%; text-align: justify;">
+  <tbody>
+  <tr>
+      <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&show_icons=true&locale=en" alt="Ermiyas Abate" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&" alt="Ermiyas Abate" /></td>
+    </tr>
+  </tbody>
+  
+</table>
+    
 </div>
 </body>
 </html>
