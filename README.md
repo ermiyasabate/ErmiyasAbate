@@ -25,11 +25,10 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate-dot&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="Github Something"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&show_icons=true&locale=en" alt="Ermiyas Abate" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en" alt="Ermiyas Abate" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&" alt="Ermiyas Abate" /></td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" /></td>
     </tr>
   </tbody>
   
