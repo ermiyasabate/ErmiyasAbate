@@ -37,7 +37,7 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
-          [![trophy](https://github-profile-trophy.vercel.app/?username=ermiyasabateg&theme=onedark&margin-w=6&column=9&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=onedark&margin-w=6&column=9&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
       </td>
     </tr>
   </tbody>
