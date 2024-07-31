@@ -32,6 +32,14 @@
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" /></td>
     </tr>
+      <tr>
+      <td style="width: 50%;">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
+      </td>
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
+        </td>
+    </tr>
   </tbody>
 </table>
 <table style="width: 100%; text-align: justify;">
