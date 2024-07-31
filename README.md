@@ -37,7 +37,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
       </td>
       <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate"/>
         </td>
     </tr>
   </tbody>
@@ -46,7 +46,16 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
-          <img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=onedark&margin-w=6&column=9&no-bg=true" alt="Ermiyas Abate" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=catppuccin_mocha" height="180em" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table style="width: 100%; text-align: justify;">
+  <tbody>
+  <tr>
+      <td style="width: 50%;">
+          <img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=catppuccin_mocha&margin-w=6&column=9&no-bg=true" alt="Ermiyas Abate" />
       </td>
     </tr>
   </tbody>
