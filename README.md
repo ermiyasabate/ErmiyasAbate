@@ -12,7 +12,7 @@
 </div>
 
 <table style="width: 100%; text-align: justify;">
-    <h1>Hi, I'm Ermiyas Abate</h1>
+    <h3>Hi, I'm Ermiyas Abate</h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermiyasabate&label=Profile%20views&color=008b8b&style=flat" alt="Ermiyas Abate" /> </p>
   <tbody>
     <tr>
