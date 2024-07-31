@@ -37,7 +37,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
       </td>
       <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate"/>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
         </td>
     </tr>
   </tbody>
@@ -46,7 +46,7 @@
   <tbody>
   <tr>
       <td style="width: 50%;">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=catppuccin_mocha" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&heme=algolia" alt="Ermiyas Abate"/>
       </td>
     </tr>
   </tbody>
