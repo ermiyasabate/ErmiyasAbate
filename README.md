@@ -43,8 +43,8 @@
   </tbody>
 </table>
 <table style="width: 100%; text-align: justify;">
-  <tbody>
-  <tr>
+  <body style="width: 100%;">
+  <tr style="width: 100%;">
       <td style="width: 100%;">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=algolia" style="width: 100%;" alt="Ermiyas Abate"/>
       </td>
