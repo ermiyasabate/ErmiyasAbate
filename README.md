@@ -8,7 +8,7 @@
 <body>
 <div class=".container">
 <div class="row" align="center">
-    <img src="vrimage.jpg" alt="Virtual Reality" width="100%">
+    <img src="https://images.wallpapersden.com/image/download/cybersecurity-core_bmdrZ2mUmZqaraWkpJRmbmdsrWZlbWU.jpg" alt="Virtual Reality" width="100%">
 </div>
 
 <table style="width: 100%; text-align: justify;">
