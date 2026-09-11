@@ -23,10 +23,46 @@
   </tbody>
 </table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=2077&animation=sequence&name=Ermiyas+Abate+Getahun)
+<table style="width: 100%; text-align: justify;">
+    <thead>
+        <tr>
+            <th colspan="2" style="width: 100%;">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=2077&animation=sequence&name=Ermiyas+Abate+Getahun" alt="Ermiyas Abate" />
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="width: 50%;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ermiyasabate&theme=2077&animation=sequence" alt="Ermiyas Abate" />
+        </td>
+        <td style="width: 50%;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077&animation=sequence&utcOffset=0" alt="Ermiyas Abate" />
+        </td>
+      </tr>
+      <tr>
+        <td style="width: 50%;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=2077&animation=sequence" alt="Ermiyas Abate" />
+        </td>
+        <td style="width: 50%;">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ermiyasabate&theme=2077&animation=sequence" alt="Ermiyas Abate" />
+        </td>
+      </tr>
+    <tr>
+        <td style="width: 50%;">
+            <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
+        </td>
+        <td style="width: 50%;"></td>
+      </tr>
+    </tbody>
+</table>
 
 <table style="width: 100%; text-align: justify;">
   <tbody>
+      <tr>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=2077&animation=sequence&name=Ermiyas+Abate+Getahun" alt="Ermiyas Abate" />
+    </tr>
+      
   <tr>
       <td style="width: 50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en" alt="Ermiyas Abate" />
