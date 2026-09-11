@@ -25,23 +25,39 @@
 
 <table style="width: 100%; text-align: justify;">
   <tbody>
-  <tr>
-      <td style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en" alt="Ermiyas Abate" />
-      </td>
+    <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" /></td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en&cache_seconds=86400" alt="Ermiyas Abate" />
+      </td>
     </tr>
-      <tr>
-      <td style="width: 50%;">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
-      </td>
+    <tr>
       <td>
-        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
-        </td>
+        <img src="https://streak-stats.demolab.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ermiyasabate&theme=react-dark" alt="Ermiyas Abate" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=algolia&no-bg=true" alt="Ermiyas Abate" />
+      </td>
     </tr>
   </tbody>
 </table>
+
 <table style="width: 100%; text-align: justify;">
   <body style="width: 100%;">
   <tr style="width: 100%;">
