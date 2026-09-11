@@ -23,39 +23,30 @@
   </tbody>
 </table>
 
-<h3 align="center">GitHub Stats</h3>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en&cache_seconds=86400" alt="Ermiyas Abate" />
+Forget it i just use the orginal.
 
-<h3 align="center">Contribution Streak</h3>
-<img width="100%" src="https://streak-stats.demolab.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" />
-
-<h3 align="center">Repos per Language</h3>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
-
-<h3 align="center">Most Productive Time</h3>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
-
-<h3 align="center">Top Languages</h3>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermiyasabate&layout=compact&theme=catppuccin_mocha&cache_seconds=86400" alt="Ermiyas Abate" />
-
-<h3 align="center">Most Commit Language</h3>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
-
-<h3 align="center">Trophies</h3>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=algolia&margin-w=6&column=9&no-bg=true" alt="Ermiyas Abate" />
-
-<h3 align="center">Contribution Snake</h3>
-<img width="100%" src="https://raw.githubusercontent.com/ermiyasabate/ermiyasabate/output/github-contribution-grid-snake.svg" alt="Ermiyas Abate" />
+What do you learn from the below 
 
 <table style="width: 100%; text-align: justify;">
-  <body style="width: 100%;">
-  <tr style="width: 100%;">
-      <td style="width: 100%;">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=algolia" style="width: 100%;" alt="Ermiyas Abate"/>
+  <tbody>
+  <tr>
+      <td style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ermiyasabate&theme=catppuccin_mocha&show_icons=true&locale=en" alt="Ermiyas Abate" />
       </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ermiyasabate&theme=catppuccin_mocha" alt="Ermiyas Abate" /></td>
+    </tr>
+      <tr>
+      <td style="width: 50%;">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermiyasabate&theme=algolia" alt="Ermiyas Abate" />
+      </td>
+      <td>
+        <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ermiyasabate&theme=2077" alt="Ermiyas Abate"/>
+        </td>
     </tr>
   </tbody>
 </table>
+
 <table style="width: 100%; text-align: justify;">
   <tbody>
   <tr>
