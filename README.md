@@ -23,9 +23,7 @@
   </tbody>
 </table>
 
-Forget it i just use the orginal.
-
-What do you learn from the below 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=2077&animation=sequence&name=Ermiyas+Abate+Getahun)
 
 <table style="width: 100%; text-align: justify;">
   <tbody>
