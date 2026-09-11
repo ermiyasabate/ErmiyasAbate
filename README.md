@@ -24,14 +24,14 @@
 </table>
 
 <table style="width: 100%; text-align: justify;">
-    <thead>
+    <thead style="width: 100%; text-align: justify;">
         <tr>
-            <th colspan="2" style="width: 100%;">
+            <th colspan="2">
                 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermiyasabate&theme=2077&animation=sequence&name=Ermiyas+Abate+Getahun" alt="Ermiyas Abate" />
             </th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="width: 100%; text-align: justify;">
       <tr>
         <td style="width: 50%;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ermiyasabate&theme=2077&animation=sequence" alt="Ermiyas Abate" />
@@ -55,16 +55,6 @@
         <td style="width: 50%;"></td>
       </tr>
     </tbody>
-</table>
-
-<table style="width: 100%; text-align: justify;">
-  <tbody>
-  <tr>
-      <td style="width: 50%;">
-          <img src="https://github-profile-trophy.vercel.app/?username=ermiyasabate&theme=catppuccin_mocha&margin-w=6&column=9&no-bg=true" alt="Ermiyas Abate" />
-      </td>
-    </tr>
-  </tbody>
 </table>
 
 ### 💻 Languages and Tools:
